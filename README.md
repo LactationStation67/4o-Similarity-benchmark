@@ -88,6 +88,14 @@ Rank  Model                                       Final     Embed     LLM
 
 ---
 
+### 📦 Dataset Availability
+
+**All tested model dataset files can be found at** [**Hugging Face**](https://huggingface.co/datasets/feeso/4o_sim_datasets/tree/main).
+
+The repository contains the raw conversation JSON files for every model tested in this benchmark. Each file includes the full multi‑turn conversation history (system, user, and assistant messages) as generated during the data collection phase. You can browse, download, or use these files to reproduce the benchmark or run your own analyses.
+
+---
+
 ### 📝 Worth noting
 
 - **GLM 5.3 and its thinking variant** are around the bottom. You can hear the distinct *Vallonesim* in their responses pretty clearly. Well-deserved placement.
