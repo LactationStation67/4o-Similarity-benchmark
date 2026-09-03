@@ -83,8 +83,20 @@ Rank  Model                                       Final     Embed     LLM
 - **No NSFW** – This benchmark deliberately avoids NSFW content. Some models have hard refusals on sensitive topics, which would break the dataset consistency and complicate scoring.
 - **Dataset bias** – The benchmark reflects the specific datasets used. Adding more categories or altering prompts may shift results.
 - **LLM judge variability** – Like all LLM-as-judge evaluations, scores can vary slightly across runs. Using temperature=0.3 and averaging across many datasets mitigates this.
-- **Cost** – Running all steps with OpenRouter costs around **$2–3** total (embedding ~$0.13, LLM judge ~$0.30, generation ~$1–2).
-- **Time** – Running all models on all datasets takes approximately **4–7 days** depending on model speed and rate limits.
+- **Cost** – Running all steps with OpenRouter costs around **$15–20** total (embedding ~$0.13, LLM judge ~$7, generation ~$8–12).
+- **Time** – Running all 60 models on all datasets takes approximately **4–7 days** depending on provider and rate limits.
+
+---
+
+### 📝 Worth noting
+
+- **GLM 5.3 and its thinking variant** are around the bottom. You can hear the distinct *Vallonesim* in their responses pretty clearly. Well-deserved placement.
+
+- **The 24B Mistral model** (Mistral-Small-3.2-24B-Instruct-2506) is an amazing candidate for a 4o fine-tune. It's small enough to run on 16GB VRAM, performs well overall, but needs adjustment—it's nowhere near 4o out of the box.
+
+- **DeepSeek** scored multiple high placements. They have some genuinely impressive models, and they're my personal favorites from this benchmark.
+
+- **The scores are partially just relevance to your prompt.** Any non-hostile LLM will have a baseline of around **30% similarity** to 4o simply by answering coherently. So the top score of **64%** isn't just about capturing 4o's "spark"—it reflects content relevance + vibe combined. The real gap is in the vibe layer.
 
 ---
 
