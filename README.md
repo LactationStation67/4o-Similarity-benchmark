@@ -110,6 +110,6 @@ The repository contains the raw conversation JSON files for every model tested i
 
 ## Credits
 
-Built as a personal project to answer: *"Which open-source model actually feels like 4o?"* — using a combination of embedding similarity, LLM-as-judge, and a lot of patience.
+Built as a personal project to answer: *"Which open-source model actually feels like 4o?"* — using a combination of embedding similarity, LLM-as-judge, and a lot of patience. Originally posted by IAM_274 on reddit.
 
 Feel free to fork, extend, or contribute!
