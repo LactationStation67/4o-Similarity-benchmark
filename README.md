@@ -74,7 +74,7 @@ Rank  Model                                       Final     Embed     LLM
 ...
 ```
 
-*(Full results are available in `leaderboard_final.json` and `leaderboard_final.txt` inside the output directory.)*
+*(Full results are available in `leaderboard_final_stats.json` and `leaderboard_final.txt` inside the output directory.)*
 
 ---
 
