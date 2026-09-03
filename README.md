@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ## Results
 
-**🏆 Leaderboard (vs GPT-4o-2024-11-20)**
+**🏆 Leaderboard (vs gpt-4o-2024-08-06)**
 
 ```
 Rank  Model                                       Final     Embed     LLM    
