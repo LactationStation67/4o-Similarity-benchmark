@@ -30,7 +30,7 @@ This benchmark measures how similar other LLMs are to GPT-4o in terms of **respo
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/4o-vibe-benchmark.git
+git clone https://github.com/yourusername/4o-vibe-benchmark.git](https://github.com/LactationStation67/4o-Similarity-benchmark.git
 cd 4o-vibe-benchmark
 
 # Install dependencies
