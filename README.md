@@ -2,7 +2,7 @@
 
 **A lightweight, reproducible pipeline for measuring how closely open-source LLMs match GPT-4o's conversational style and content — not just what they say, but how they say it.**
 
-<img width="860" height="361" alt="gpt-4o-a-leap-forward-in-ai" src="https://github.com/user-attachments/assets/28908a1e-f367-49e3-9188-ed8736d79335" />
+<img width="860" height="361" alt="draw chat_dc2sjolmi9lwa4bs1cnx9h6pth9hvh_p1" src="https://github.com/user-attachments/assets/7f75ca42-3fc9-4d0f-ba79-5d8be86d14c6" />
 
 ---
 
