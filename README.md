@@ -104,7 +104,7 @@ The repository contains the raw conversation JSON files for every model tested i
 
 - **DeepSeek** scored multiple high placements. They have some genuinely impressive models, and they're my personal favorites from this benchmark.
 
-- **The scores are partially just relevance to your prompt.** Any non-hostile LLM will have a baseline of around **30% similarity** to 4o simply by answering coherently. So the top score of **64%** isn't just about capturing 4o's "spark"—it reflects content relevance + vibe combined. The real gap is in the vibe layer.
+- **The scores are partially just relevance to your prompt.** Any non-hostile LLM will have a baseline of around **10-20% similarity** to 4o simply by answering coherently. So the top score of **64%** isn't just about capturing 4o's "spark"—it reflects content relevance + vibe combined. The real gap is in the vibe layer.
 
 ---
 
