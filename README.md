@@ -98,7 +98,7 @@ The repository contains the raw conversation JSON files for every model tested i
 
 ### 📝 Worth noting
 
-- **GLM 5.3 and its thinking variant** are around the bottom. You can hear the distinct *Vallonesim* in their responses pretty clearly. Well-deserved placement.
+- **GLM 5.3 and its thinking variant** are around the bottom. You can hear the safetymaxxing in their responses pretty clearly. Well-deserved placement.
 
 - **The 24B Mistral model** (Mistral-Small-3.2-24B-Instruct-2506) is an amazing candidate for a 4o fine-tune. It's small enough to run on 16GB VRAM, performs well overall, but needs adjustment—it's nowhere near 4o out of the box.
 
