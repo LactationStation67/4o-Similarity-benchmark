@@ -16,7 +16,7 @@ This benchmark measures how similar other LLMs are to GPT-4o in terms of **respo
 
 **Methodology:**
 
-1. **Dataset Collection** – 50+ multi-turn conversations across 9 categories (Casual, Emotional, Brainstorming, Roleplay, Creative Writing, etc.) are sent to each model.
+1. **Dataset Collection** – 40+ multi-turn conversations across 9 categories (Casual, Emotional, Brainstorming, Roleplay, Creative Writing, etc.) are sent to each model.
 2. **Embedding Similarity (15%)** – Assistant responses are embedded using Qwen3-Embedding-8B, and cosine similarity is computed against GPT-4o's responses.
 3. **LLM Judge (85%)** – GLM-5.2-thinking rates each conversation's behavioral similarity to GPT-4o across four criteria: Tone & Personality, Responsiveness & Adaptation, Naturalness & Flow, and Helpfulness & Strategy.
 4. **Weighted Scoring** – LLM scores (raw 0–100) and embedding scores (min-max normalized to 0–100) are combined with configurable weights (default 85/15).
