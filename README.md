@@ -100,7 +100,7 @@ The repository contains the raw conversation JSON files for every model tested i
 
 - **GLM 5.3 and its thinking variant** are around the bottom. You can hear the safetymaxxing in their responses pretty clearly. Well-deserved placement.
 
-- **The 24B Mistral model** (Mistral-Small-3.2-24B-Instruct-2506) is an amazing candidate for a 4o fine-tune. It's small enough to run on 16GB VRAM, performs well overall, but needs adjustment—it's nowhere near 4o out of the box.
+- **The 24B Mistral model** (Mistral-Small-3.2-24B-Instruct-2506) is an amazing candidate for a 4o fine-tune. It's small enough to run on 16GB VRAM, performs well overall, but needs adjustment—it's not 4o out of the box.
 
 - **DeepSeek** scored multiple high placements. They have some genuinely impressive models, and they're my personal favorites from this benchmark.
 
